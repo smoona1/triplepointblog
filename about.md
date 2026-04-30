@@ -3,25 +3,27 @@ layout: page
 title: About
 ---
 
-Cloud Computing Security
+What does Triple Point Security do?
 
-We've developed a cloud security architecture and assessment methodology to facilitate the secure adoption of cloud computing in the enterprise.
+- Cloud Computing Security
 
-System Development
+    We've developed a cloud security architecture and assessment methodology to facilitate the secure adoption of cloud computing in the enterprise.
 
-Our secure system development approach results in risk-based decisions that are cost-effective, enabling the business functions the system is developed to support.
+- System Development
 
-Security Architecture
+    Our secure system development approach results in risk-based decisions that are cost-effective, enabling the business functions the system is developed to support.
 
-Our approach is a service-based model that harmonizes the security technology deployed in an enterprise and foster the consistent implementation of security controls.
+- Security Architecture
 
-Tech Integration
+    Our approach is a service-based model that harmonizes the security technology deployed in an enterprise and foster the consistent implementation of security controls.
 
-We provide an end-to-end security technology integration solution that brings continuity from requirements to operations. Ensuring proper technology, consistent security architecture, and operating as intended.
+- Tech Integration
 
-Security Operations
+    We provide an end-to-end security technology integration solution that brings continuity from requirements to operations. Ensuring proper technology, consistent security       architecture, and operating as intended.
 
-Focusing on an organization's priorities, policies, and processes, our process-oriented operations will allow for true situational awareness, rapid and intelligent response, and the ability for continuous feedback and improvement.
+- Security Operations
+
+    Focusing on an organization's priorities, policies, and processes, our process-oriented operations will allow for true situational awareness, rapid and intelligent response, and the ability for continuous feedback and improvement.
 
 and Much More
 
