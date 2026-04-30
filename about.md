@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 Cloud Computing Security
 
 We've developed a cloud security architecture and assessment methodology to facilitate the secure adoption of cloud computing in the enterprise.
