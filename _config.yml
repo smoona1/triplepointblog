@@ -1,3 +1,6 @@
 title: Triple Point Security
 description: Latest cybersecurity research from Triple Point Security R&D initiatives!
 theme: minima
+
+header_pages:
+  - about.md
