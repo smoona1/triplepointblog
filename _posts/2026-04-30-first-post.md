@@ -1,5 +1,5 @@
 ---
-layout: Blog 1
+layout: Posts
 title: "Ex: Malware analysis of System-Name"
 date: 2026-04-30
 ---
