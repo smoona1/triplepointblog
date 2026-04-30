@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Ex: Malware analysis of System-Name"
+title: "EX: Malware Analysis on System-Name"
 date: 2026-04-30
 ---
 
-First post - test
-Etc etc etc
+System-Name has ...
