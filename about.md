@@ -25,6 +25,6 @@ What does Triple Point Security do?
 
     Focusing on an organization's priorities, policies, and processes, our process-oriented operations will allow for true situational awareness, rapid and intelligent response, and the ability for continuous feedback and improvement.
 
-and Much More
+- and Much More
 
-Delivering robust information security solutions requires experience from the strategic level to the operational level as well as expertise in offensive and defensive information security tactics.
+  Delivering robust information security solutions requires experience from the strategic level to the operational level as well as expertise in offensive and defensive information security tactics.
